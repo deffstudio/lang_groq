@@ -7,3 +7,5 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+langchain-community
+transformers
